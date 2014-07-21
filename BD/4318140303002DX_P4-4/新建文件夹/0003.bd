@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="gb2312"?>
+<Board L="490" W="2428" BH="18" CncBack="2" CncBack1="2" CA="0" CB="0" CC="0" CD="0" CE="0" CF="0" CG="0" CH="0" CI="0" CJ="0" CK="0" CL="0" CM="0" CN="0" CO="0" CP="0" FB="0.00" LFB="0.00" RFB="0.00" DFB="0.00" UFB="0.00" YHFB="0.00" Workflow="" JXS="武夷山诗尼曼" TIME="2014-06-04" ORDER=" 2510140604001DX" GNO="P12-1" DESNO="P12-1" CBNO="" USER="admin" TYPE="一字底柜" NAME="中侧板" FBSTR="2H2L" SIZE="2425*487*18" UNIT="块" PackNo="" MEMO="" Mat="经典系列中纤板" Color="优享" HoleStr="" KcStr="" HoleFlag="" KcFlag="" BomStd="" JXSPHONE="" JXSADDR="" CLIENT="福建武夷山店" CLIENTPHONE="" CLIENTMOBILEPHONE="" CLIENTADDR="">
+<Graph>
+<Point X="0" Y="0" XA="" YA="" R="" Rb="" X1="" Y1="" HDirect="" Face="" Hole_Xcap="" Hole_Ycap="" Holenum_X="355857032" Holenum_Y="60" StartAngle="0" Angle="0" Hotspot="1" IsDim="0"/>
+<Point X="0" Y="W" XA="" YA="" R="" Rb="" X1="" Y1="" HDirect="" Face="" Hole_Xcap="" Hole_Ycap="" Holenum_X="256" Holenum_Y="51" StartAngle="0" Angle="0" Hotspot="1" IsDim="0"/>
+<Point X="L" Y="W" XA="" YA="" R="" Rb="" X1="" Y1="" HDirect="" Face="" Hole_Xcap="" Hole_Ycap="" Holenum_X="790635057" Holenum_Y="1007291710" StartAngle="0" Angle="0" Hotspot="1" IsDim="0"/>
+<Point X="L" Y="0" XA="" YA="" R="" Rb="" X1="" Y1="" HDirect="" Face="" Hole_Xcap="" Hole_Ycap="" Holenum_X="1866997794" Holenum_Y="1869640564" StartAngle="0" Angle="0" Hotspot="1" IsDim="0"/>
+</Graph><FaceA>
+<VHole X="12" Y="24" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="12" Y="56" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="478" Y="24" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="478" Y="56" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="53" Y="2419" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="437" Y="2419" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="53" Y="2101" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="437" Y="2101" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="53" Y="1691" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="1755" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="1627" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="1691" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="1755" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="1627" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="89" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="437" Y="89" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="53" Y="411" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="475" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="347" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="411" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="475" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="347" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="731" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="795" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="667" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="731" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="795" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="667" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="1063" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="437" Y="1063" R="10" Rb="" HDirect="" Face="A" Hole_Z="9"/>
+<VHole X="53" Y="1371" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="1435" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="53" Y="1307" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="1371" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="1435" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+<VHole X="437" Y="1307" R="5" Rb="" HDirect="" Face="A" Hole_Z="-3"/>
+</FaceA>
+<FaceB>
+<VHole X="12" Y="24" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="12" Y="56" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="478" Y="24" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="478" Y="56" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="53" Y="89" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="437" Y="89" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="53" Y="2101" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="437" Y="2101" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="53" Y="2419" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+<VHole X="437" Y="2419" R="10" Rb="" HDirect="" Face="B" Hole_Z="9"/>
+</FaceB>
+</Board>
